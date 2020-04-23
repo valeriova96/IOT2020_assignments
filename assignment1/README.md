@@ -1,8 +1,4 @@
-# IOT2020_assignments
-
-Projects developed for the IOT exam (see >http://ichatz.me/Site/InternetOfThings2020)
-
-## Assignment 1 (Thingsboard, paho-mqtt and Python)
+# Assignment 1 (Thingsboard, paho-mqtt and Python)
 
 It consists by creating a script which generates random values for 2 weather stations
 simulated thanks to the [Thingsboard](https://thingsboard.io) technology. These informations are delivered thanks to an MQTT broker provided by [paho-mqtt](https://www.eclipse.org/paho/)
